@@ -7,10 +7,6 @@ Usage:
 - Supply appropriate power to the sensor.
 - Run the script.
 
-Note: Adjust the trigPin and echoPin numbers according to your hardware setup.
-
-Author: [Your Name]
-
 """
 
 from machine import Pin
